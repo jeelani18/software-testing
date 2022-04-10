@@ -1,0 +1,69 @@
+software Testing- Evaluating the functionality of software
+
+->developer testing is known as unit testing
+
+types of software testing:
+
+1.manual testing
+2.automation Testing
+
+Automation tools:
+
+1.selenium-web driver
+2.cucumber(BDD)
+
+postman(API/Web services Testing)
+
+
+software development life cycle
+
+->idea generation
+->planning
+->market research and analysis
+->naming-domain name book
+->mock up and wire-frame
+->development-agile methodology
+->testing and launching
+->marketing and organize feedback
+
+
+software
+
+
+testing levels
+
+->unit testing : developer checks conditions
+->Integration testing : 
+->End to End testing : everything should be tested from start to end
+->Acceptance testing : testing done at customers and take feedback
+
+black box testing
+
+->It is a way of software testing in which the internal structure or the program or the code is hidden and nothing is known about it.
+->testers
+
+white box testing
+->It is a way of testing the software in which the tester has knowledge about the internal structure or the code or the program of the software.
+->developers
+
+
+testing artifacts
+->test plan
+->test case
+->traceability matrix
+->test reports
+
+
+automation testing
+
+->selenium-
+
+-it is a library
+-selenium is automation tool for functional testing of web based application
+-selenium supports java,ruby,python,c#
+
+->cucumber-
+-it is testing approach which supports behaviour driven development(BDD)
+-marven - its a bulid tool
+-execute the software application through marven
+
